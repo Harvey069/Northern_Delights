@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".AboutFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About Northern Delights"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome to Northern Delights!"
+            android:textSize="18sp"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Northern Delights is your go-to app for discovering the best gastropubs in Vigan City that serve Sinanglao and Empanada. Whether you're a local resident or a visitor, Northern Delights helps you find, navigate to, and enjoy the finest local cuisine."
+            android:textSize="16sp"
+            android:paddingBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Mission"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+Our goal is to connect food lovers with the special dishes of Vigan City. We want to help you easily find and enjoy traditional foods like Sinanglao and Empanada by giving you accurate and updated info about local gastropubs."
+            android:textSize="16sp"
+            android:paddingBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Features"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Gastropub List: Browse through a list of gastropubs that serve Sinanglao and Empanada.\n- Search Functionality: Easily search for specific gastropubs or dishes.\n- Opening Hours: Check the opening and closing times of each gastropub.\n- Navigation: Get directions to your chosen gastropub using integrated GPS.\n- Menu and Reviews: View detailed menus and read reviews from other food lovers."
+            android:textSize="16sp"
+            android:paddingBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="How to Use"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Using Northern Delights is simple:\n1. Search: Use the search bar to find gastropubs by name.\n2. Browse: Explore the list of gastropubs, view their menus, and read reviews.\n3. Navigate: Get directions to your selected gastropub using the map feature.\n4. Review: Share your experience by rating and reviewing the gastropubs you visit."
+            android:textSize="16sp"
+            android:paddingBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact Us"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="We'd love to hear from you! If you have any questions, suggestions, or feedback, please contact us at @Harveyraras111@gmail.com"
+            android:textSize="16sp"
+            android:autoLink="email"
+            android:paddingBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Credits"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Development Team:\n  - Lee Harvey V. Raras: Programmer\n  - Andrea Manzano : Designer\n  - Grayson Solmerin: Analyst\n  - Patrick Tagayuna: Tester\n- Special Thanks: Special thanks to our capstone adviser, Mr. Angelou Baja, for his support and guidance."
+            android:textSize="16sp"
+            android:paddingBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Privacy Policy"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingBottom="16dp"
+            android:autoLink="web"
+            android:text="http://your-privacy-policy-link.com"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thank you for using Northern Deligths. Enjoy your culinary journey in Vigan City!"
+            android:textSize="16sp"
+            android:paddingBottom="16dp"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,68 @@
+<resources>
+    <string name="northern_delights">Northern Delights</string>
+    <string name="login_here">Login Here</string>
+    <string name="fullname">Fullname</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_here">Register Here!</string>
+    <string name="hello">Hello!</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="home_page">Home page</string>
+    <string name="dasboard">Dasboard</string>
+    <string name="todo">TODO</string>
+    <string name="dashboard">Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="glorious_purpose">Glorious Purpose!!</string>
+    <string name="homefragment">Home!</string>
+    <string name="settingss">Settings</string>
+    <string name="about">About</string>
+    <string name="app_name">Northern Delights</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="home2">Home</string>
+    <string name="settings2">Settings</string>
+    <string name="about_us2">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_your_email_address">Enter your email address:</string>
+    <string name="forgot_passwordd">Forgot Password</string>
+    <string name="arrow">\n</string>
+    <string name="back_button" />
+
+    <string name="sinanglaoDes">Description:</string>
+    <string name="menudoDes">Description:</string>
+    <string name="kalderetaDes">Description:</string>
+    <string name="papaitanDes">Description:</string>
+    <string name="adoboDes">Description:</string>
+    <string name="hatdogDes">Description:</string>
+
+    <string name="sinanglaoprice">  Sinanglao is a Filipino beef soup dish that originates from the Ilocos region.
+        It is made with thinly sliced beef innards such as liver, heart, and kidney, simmered in a flavorful broth
+        with spices like ginger and onions. It is typically served hot, often with a side of calamansi and chili for added flavor.</string>
+    <string name="kalderetaprice"> Kaldereta is a Filipino beef stew cooked in a flavorful tomato-based sauce. Tender beef chunks are simmered with garlic, onions, bell peppers, and spices until melt-in-your-mouth tender. Potatoes and carrots add heartiness to the dish, creating a comforting meal perfect for sharing with loved ones. Its rich and savory flavor makes it a favorite in Filipino households and gatherings. </string>
+    <string name="igado">Igado is a traditional Filipino dish consisting of pork meat and liver sautéed with garlic,
+    onions, and bell peppers, seasoned with soy sauce and vinegar. It is a flavorful and hearty dish that is perfect
+    for sharing with family and friends, often enjoyed with steamed rice for a satisfying meal.</string>
+    <string name="adoboprice">Pork Adobo is a classic Filipino dish known for its tangy and savory flavor.
+    It is made by marinating pork pieces in a mixture of soy sauce, vinegar, garlic, bay leaves, and black peppercorns before simmering until tender.
+    The result is tender and flavorful pork with a distinct adobo taste, often served with steamed rice.</string>
+    <string name="pinakbet"> Pinakbet is a traditional Filipino vegetable dish that originated from the Ilocos region.
+        It is made with a variety of native vegetables such as squash, eggplant, okra, string beans, and bitter melon,
+        simmered together with shrimp paste and sometimes with pork or shrimp. The dish is known for its savory and slightly
+        bitter flavor, highlighting the natural taste of the vegetables cooked in a flavorful sauce.</string>
+
+
+</resources>

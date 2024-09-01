@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285574012509",
+    "project_id": "mrlaufey-df230",
+    "storage_bucket": "mrlaufey-df230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285574012509:android:4eeaa3084d6caebc61b7b4",
+        "android_client_info": {
+          "package_name": "com.capstoneproject.kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvrfHnzYkZ2_Jq9pMrZPQpf1A50AR8Njc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

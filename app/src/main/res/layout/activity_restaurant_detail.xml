@@ -1,0 +1,44 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:title="Restaurant Detail"
+            android:navigationIcon="@drawable/baseline_arrow_back_24" />
+
+
+        <!-- Menu Items RecyclerView -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Menu Items"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_menu_items"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <!-- Add Menu Item Button -->
+        <Button
+            android:id="@+id/btn_add_menu_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Menu Item"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+</ScrollView>
